@@ -25,7 +25,7 @@ SECRET_KEY = 'h_inw**=azz2-(q_s5ux*y68b02+-&&hudbity!fbam+0@b=!@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://myheroku-mercyngatia.c9users.io/']
+ALLOWED_HOSTS = [' https://git.heroku.com/thawing-retreat-95523.com']
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
 
